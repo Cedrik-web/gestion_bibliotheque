@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+body {
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-size: 3em;
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	height: 80px;
+	background-color: yellow;
+}
+
+main {
+	background-color: black;
+}
+
+.comboBoxAccueil {
+	height: 80px;
+	background-color: blue;
+}
+
+.tableAccueil {
+	height: 250px;
+	background-color: red;
+}
+
+.panierAccueil {
+	height: 220px;
+	background-color: blue;
+}
+
+footer {
+	background-color: gray;
+	height: 80px;
+}
